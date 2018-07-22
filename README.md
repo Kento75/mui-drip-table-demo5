@@ -1,5 +1,5 @@
 # mui-drip-table-demo
-・mui-drip-tableのスタイル変更デモ画面
+・mui-drip-table(v0.2.3~1.0.0)のスタイル変更デモ画面
 *****
 
 ## 追加パッケージ
